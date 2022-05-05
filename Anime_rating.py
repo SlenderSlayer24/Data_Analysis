@@ -89,7 +89,7 @@ def Find_Anime(rows):
             search = input("wanna keep searching? (yes or no): ")
             print()
         elif search.lower() == "no":
-            Pass
+            pass
         else:
             search = input("Please put 'yes' or 'no': ")
             print()

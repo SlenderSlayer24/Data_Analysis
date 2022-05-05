@@ -4,7 +4,7 @@ As an Anime fan. I love finding new shows and things to watch. Sometimes though,
 
 The set of data I'm using is an anime related data set from Kaggle (https://www.kaggle.com/datasets/CooperUnion/anime-recommendations-database) It contains info on most any anime, including title, genre, rating, series type, and episode number. 
 
-The first program, (Anime_rating.py) anwsers the main questions. 1 What is the highest rated anime series of all time. 2. What are the highest rated anime movie/tv series. and, it can even help one find the ratings of individual animes. The other two programs (Genre.py and Episode_Number.py) Ask individual questions using the same data base. With Episode_Number.py finding the avrage number of episodes across all anime Tv series. And Genre.py finds the number of animes with a certain kind of genre tied to it. 
+The first program, (Anime_rating.py) anwsers the main questions. 1 What is the highest rated anime series of all time. 2. What are the highest rated anime movie/tv series. and, it can even help one find the ratings of individual animes. The other two programs (Genre.py and Episode_Number.py) Ask individual questions using the same data base. With Episode_Number.py finding the avrage number of episodes across all anime Tv series. And Genre.py finds the number of animes with a certain kind of genere tied to it. 
 
 [Software Demo Video](https://www.youtube.com/watch?v=TiWLuzL1Y48)
 
